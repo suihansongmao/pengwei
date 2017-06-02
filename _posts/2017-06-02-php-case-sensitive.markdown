@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "php中大小写敏感以及常量变量的问题"
