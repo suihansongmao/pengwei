@@ -1,5 +1,6 @@
+
 ---
-layout: posts
+layout: post
 title: "php中大小写敏感以及常量变量的问题"
 subtitle: "个人的一些总结"
 date: 2017-06-02 13:11:00
