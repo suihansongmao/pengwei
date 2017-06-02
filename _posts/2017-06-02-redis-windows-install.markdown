@@ -14,9 +14,9 @@ tags:
 > 对新事物保持一种好奇的状态，对于处在快速发展环境中的我们是非常重要的。
 
 ## 写在前面
-    对于redis，我之前理解停留在，它是一个很火的NoSQL数据库，也可以作为缓存使用。其实，redis出来也很久了，但由于各种原因，直到昨天才开始比较系统的了解，昨天是初步了解，今天完成了安装和在php中的初步使用，现把安装过程记录如下： 
+对于redis，我之前理解停留在，它是一个很火的NoSQL数据库，也可以作为缓存使用。其实，redis出来也很久了，但由于各种原因，直到昨天才开始比较系统的了解，昨天是初步了解，今天完成了安装和在php中的初步使用，现把安装过程记录如下： 
 ## 开始安装
-    首先，redis和memcache都是CS架构的，所以无论在哪里使用，都需要安装Server端。redis虽然官方不支持windows安装，但是官网上面可以找到windows版本的链接，如下截图所示：
+首先，redis和memcache都是CS架构的，所以无论在哪里使用，都需要安装Server端。redis虽然官方不支持windows安装，但是官网上面可以找到windows版本的链接，如下截图所示：
 ![](/img/in-post/post-redis-windows-install/redis-io.jpg)
 点击**Learn more**，进入的应该是这样一个页面：
 ![](/img/in-post/post-redis-windows-install/redis-windows.jpg)
